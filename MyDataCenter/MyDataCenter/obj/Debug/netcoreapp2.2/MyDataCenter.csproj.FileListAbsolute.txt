@@ -1,0 +1,15 @@
+F:\Git\MyProject\MyDataCenter\MyDataCenter\bin\Debug\netcoreapp2.2\NLog.config
+F:\Git\MyProject\MyDataCenter\MyDataCenter\bin\Debug\netcoreapp2.2\MyDataCenter.deps.json
+F:\Git\MyProject\MyDataCenter\MyDataCenter\bin\Debug\netcoreapp2.2\MyDataCenter.runtimeconfig.json
+F:\Git\MyProject\MyDataCenter\MyDataCenter\bin\Debug\netcoreapp2.2\MyDataCenter.runtimeconfig.dev.json
+F:\Git\MyProject\MyDataCenter\MyDataCenter\bin\Debug\netcoreapp2.2\MyDataCenter.dll
+F:\Git\MyProject\MyDataCenter\MyDataCenter\bin\Debug\netcoreapp2.2\MyDataCenter.pdb
+F:\Git\MyProject\MyDataCenter\MyDataCenter\obj\Debug\netcoreapp2.2\MyDataCenter.csproj.CoreCompileInputs.cache
+F:\Git\MyProject\MyDataCenter\MyDataCenter\obj\Debug\netcoreapp2.2\MyDataCenter.RazorAssemblyInfo.cache
+F:\Git\MyProject\MyDataCenter\MyDataCenter\obj\Debug\netcoreapp2.2\MyDataCenter.RazorAssemblyInfo.cs
+F:\Git\MyProject\MyDataCenter\MyDataCenter\obj\Debug\netcoreapp2.2\MyDataCenter.AssemblyInfoInputs.cache
+F:\Git\MyProject\MyDataCenter\MyDataCenter\obj\Debug\netcoreapp2.2\MyDataCenter.AssemblyInfo.cs
+F:\Git\MyProject\MyDataCenter\MyDataCenter\obj\Debug\netcoreapp2.2\MyDataCenter.RazorTargetAssemblyInfo.cache
+F:\Git\MyProject\MyDataCenter\MyDataCenter\obj\Debug\netcoreapp2.2\MyDataCenter.dll
+F:\Git\MyProject\MyDataCenter\MyDataCenter\obj\Debug\netcoreapp2.2\MyDataCenter.pdb
+F:\Git\MyProject\MyDataCenter\MyDataCenter\obj\Debug\netcoreapp2.2\MyDataCenter.csprojAssemblyReference.cache
